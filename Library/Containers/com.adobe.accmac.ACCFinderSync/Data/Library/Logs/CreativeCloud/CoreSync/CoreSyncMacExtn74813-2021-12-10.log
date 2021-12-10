@@ -1,0 +1,3 @@
+2021-12-10T22:56:41.989537Z: t=0307: Info: extension.bridge(74813): Attempting to attach shared connection (ACCFinderBridge.mm.-[ACCFinderBridge2 setupCommunication].205)
+2021-12-10T22:56:41.991486Z: t=0307: Info: extension.bridge(74813): intialization succsessfull (ACCFinderBridge.mm.-[ACCFinderBridge2 init].151)
+2021-12-10T22:56:41.991524Z: t=0307: Info: extension.findersync(74813): init. compiled: Oct 27 2020 05:42:34 (ACCFinderSync.mm.-[ACCFinderSync initWithOverriddenController:].53)
